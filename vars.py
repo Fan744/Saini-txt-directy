@@ -3,12 +3,13 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "17508149"))
-API_HASH = environ.get("API_HASH", "cb4ba927124572ab6d02405b69859f51")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8487982669:AAE8qtXByG38iIWJwK4ODuxFXB3iolSu-ms")
-OWNER = int(environ.get("OWNER", "8360021938"))
+API_ID = int(environ.get("API_ID", "29383825"))
+API_HASH = environ.get("API_HASH", "3362cbcff56b786d82202086baab0bb7")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8369100760:AAEEkuwbZz0eOghLboKeP1qN2l9tJd0OdwE")
+OWNER = int(environ.get("OWNER", "8453948641"))
 CREDIT = environ.get("CREDIT", "PK 𝘽𝙊𝙏𝙎")
-LOG_CHANNEL = "-1002631537674" # log group me bot ko admin narur banaye full rights ke sath
+LOG_CHANNEL = "" # log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+
 
